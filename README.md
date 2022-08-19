@@ -29,6 +29,9 @@ python main.py \
     --batch_size 16 
 ```
 Use `--mode train` to train your model.
+### available checkpoint
+You can download existing checkpoint file from 
+https://github.com/gitcsq/segmentation-WeizmannHorse/blob/master/depth5-ep119.pth
 ## test
 ```python
 python main.py \
